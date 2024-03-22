@@ -255,8 +255,7 @@ export default {
 }
 
 .total {
-  text-align: right;
-  margin-right: 15px;
+  text-align: left;
   color: rgb(158, 158, 158);;
 }
 </style>
