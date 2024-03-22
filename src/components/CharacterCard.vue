@@ -31,7 +31,7 @@
             src="@/assets/planet-icon.png"
             class="status-icon"
           />
-          Earth
+          {{ character.origin.name }}
         </div>
       </div>
       <div class="flip-card-back">
