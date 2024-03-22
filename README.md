@@ -47,7 +47,7 @@ This will start the development server, and you can access the project at http:/
 
 ## Demo
 
-Check out the live demo of the project at www.rickmorty.com.
+Check out the live demo of the project at https://fabriciohd.github.io/rickAndMortySearch/.
 
 ## Acknowledgment
 
